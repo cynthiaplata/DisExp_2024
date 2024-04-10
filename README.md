@@ -11,5 +11,11 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
 
 ### Laboratorios 
 
+#### Laboratorio 1 
+##### Gastos totales
+
+celular <- 300
+
+
 
 ### Tareas
